@@ -1,2 +1,2 @@
 # Machine_Learning
-Kaist Artificial Intelligence and Machine Learning Lecture
+Spring 2017 CS570 - Kaist Artificial Intelligence and Machine Learning Lecture(Alice Oh)
