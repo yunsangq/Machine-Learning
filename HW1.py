@@ -90,7 +90,6 @@ def get_best_lambda_value_ridge_lasso(data):
             r2_list.append(r2)
         las_score_list.append(np.array(r2_list).sum() / 10.0)
 
-
     best_lambda_ridge = rid_alpha_space[np.array(rid_score_list).argmax()]
     best_lambda_lasso = las_alpha_space[np.array(las_score_list).argmax()]
 
